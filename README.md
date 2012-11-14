@@ -1,6 +1,6 @@
 # letter
 
-RSpec style lets for your classes.
+RSpec style lets for your classes. Similar to decent_exposure, but handles less for you.
 
     class OrdersController < ApplicationController
       extend Letter
